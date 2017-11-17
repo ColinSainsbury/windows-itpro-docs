@@ -18,7 +18,7 @@ When you are ready to begin the upgrade process, a workflow is provided to guide
 
 Each step in the workflow is enumerated using blue tiles. Helpful data is provided on white tiles to help you get started, to monitor your progress, and to complete each step.
 
->**Important**: You can use the [Target version](#target-version) setting to evaluate computers that are runnign a specified version of Windows before starting the Upgrade Readiness workflow. By default, the Target version is configured to the released version of Windows 10 for the Current Branch for Business (CBB).
+>**Important**: You can use the [Target version](#target-version) setting to evaluate computers that are running a specified version of Windows before starting the Upgrade Readiness workflow. By default, the Target version is configured to the released version of Windows 10 for the Current Branch for Business (CBB).
 
 The following information and workflow is provided:
 
